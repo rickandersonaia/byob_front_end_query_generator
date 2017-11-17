@@ -1,0 +1,15 @@
+{
+    "name": "ander/byob-front-end-query-generator",
+    "description": "This plugin creates an interactive query generator on the front end",
+    "type": "project",
+    "require": {
+        "webdevstudios/cmb2": "^2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rick Anderson",
+            "email": "rick@byobwebsite.com"
+        }
+    ]
+}
